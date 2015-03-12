@@ -2,7 +2,7 @@
 
 ; Define your application name
 !define APPNAME "Конвертер тестов из АСТ-Тест в MoodleXML"
-!define APPNAMEANDVERSION "Конвертер тестов из АСТ-Тест в MoodleXML (20150311)"
+!define APPNAMEANDVERSION "Конвертер тестов из АСТ-Тест в MoodleXML (20150312)"
 
 ; Main Install settings
 Name "${APPNAMEANDVERSION}"
