@@ -61,6 +61,7 @@ Section Uninstall
 
 	; Remove remaining directories
 	RMDir "$SMPROGRAMS\Конвертер тестов из АСТ-Тест в MoodleXML"
+	RMDir "$INSTDIR"
 
 SectionEnd
 
